@@ -27,3 +27,5 @@ yarn-error.log
 .env.testing
 .env.*.local
 /.agents
+boost.json
+*.md
